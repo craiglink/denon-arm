@@ -1,0 +1,76 @@
+<!DOCTYPE CrossStudio_for_ARM_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints/>
+ <ExecutionCountWindow/>
+ <Memory1>
+  <MemoryWindow autoEvaluate="0" addressText="0x002011b8" numColumns="8" sizeText="4" dataSize="1" radix="16" addressSpace="" />
+ </Memory1>
+ <Memory2>
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" addressSpace="" />
+ </Memory2>
+ <Memory3>
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" addressSpace="" />
+ </Memory3>
+ <Memory4>
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" addressSpace="" />
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="Denon-ARM" name="unnamed" />
+  <ProjectSessionItem path="Denon-ARM;Denon-ARM" name="unnamed" />
+  <ProjectSessionItem path="Denon-ARM;Denon-ARM;Source Files" name="unnamed" />
+ </Project>
+ <Register1>
+  <RegisterWindow openNodes="" binaryNodes="" hiddenNodes="" unsignedNodes="" visibleGroups="" decimalNodes="" octalNodes="" asciiNodes="" />
+ </Register1>
+ <Register2>
+  <RegisterWindow openNodes="" binaryNodes="" hiddenNodes="" unsignedNodes="" visibleGroups="" decimalNodes="" octalNodes="" asciiNodes="" />
+ </Register2>
+ <Register3>
+  <RegisterWindow openNodes="" binaryNodes="" hiddenNodes="" unsignedNodes="" visibleGroups="" decimalNodes="" octalNodes="" asciiNodes="" />
+ </Register3>
+ <Register4>
+  <RegisterWindow openNodes="" binaryNodes="" hiddenNodes="" unsignedNodes="" visibleGroups="" decimalNodes="" octalNodes="" asciiNodes="" />
+ </Register4>
+ <TargetWindow programAction="" uploadFileType="" programLoadAddress="" programSize="" uploadFileName="" uploadMemoryInterface="" programFileName="" uploadStartAddress="" programFileType="" uploadSize="" programMemoryInterface="" />
+ <TraceWindow>
+  <Trace enabled="Yes" />
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never" >
+   <Watchpoint evalMode="3" linenumber="115" evalType="1" radix="-1" name="s" expression="s" filename="c:/src/denon/denon-arm/main.cpp" />
+   <Watchpoint linenumber="116" radix="-1" name="msg" expression="msg" filename="c:/src/denon/denon-arm/main.cpp" />
+  </Watches>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never" />
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never" />
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never" />
+ </Watch4>
+ <Files>
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\src\denon\Denon-ARM\main.cpp" y="120" path="C:\src\denon\Denon-ARM\main.cpp" left="0" selected="1" name="unnamed" top="109" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\Users\craig\AppData\Local\Rowley Associates Limited\CrossWorks for ARM\packages\targets\Olimex_SAM7_P64\ctl_olimex_sam7_p64.c" y="22" path="C:\Users\craig\AppData\Local\Rowley Associates Limited\CrossWorks for ARM\packages\targets\Olimex_SAM7_P64\ctl_olimex_sam7_p64.c" left="0" selected="0" name="unnamed" top="22" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\src\Denon\Denon-ARM\at91lib\utility\clock.h" y="47" path="C:\src\Denon\Denon-ARM\at91lib\utility\clock.h" left="0" selected="0" name="unnamed" top="26" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\src\Denon\Denon-ARM\at91lib\utility\clock.c" y="266" path="C:\src\Denon\Denon-ARM\at91lib\utility\clock.c" left="0" selected="0" name="unnamed" top="264" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\src\Denon\Denon-ARM\at91lib\peripherals\systick\systick.h" y="33" path="C:\src\Denon\Denon-ARM\at91lib\peripherals\systick\systick.h" left="0" selected="0" name="unnamed" top="25" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\src\Denon\Denon-ARM\at91lib\peripherals\systick\systick.c" y="50" path="C:\src\Denon\Denon-ARM\at91lib\peripherals\systick\systick.c" left="0" selected="0" name="unnamed" top="44" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\src\Denon\Denon-ARM\at91lib\peripherals\slck\slck.h" y="27" path="C:\src\Denon\Denon-ARM\at91lib\peripherals\slck\slck.h" left="0" selected="0" name="unnamed" top="22" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\Users\craig\AppData\Local\Rowley Associates Limited\CrossWorks for ARM\packages\targets\Atmel_AT91SAM7\ctl_at91sam7.c" y="46" path="C:\Users\craig\AppData\Local\Rowley Associates Limited\CrossWorks for ARM\packages\targets\Atmel_AT91SAM7\ctl_at91sam7.c" left="0" selected="0" name="unnamed" top="27" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\src\Denon\Denon-ARM\at91lib\peripherals\pit\pit.h" y="59" path="C:\src\Denon\Denon-ARM\at91lib\peripherals\pit\pit.h" left="0" selected="0" name="unnamed" top="39" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\src\Denon\Denon-ARM\at91lib\peripherals\pit\pit.c" y="119" path="C:\src\Denon\Denon-ARM\at91lib\peripherals\pit\pit.c" left="0" selected="0" name="unnamed" top="84" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\src\Denon\Denon-ARM\at91lib\drivers\tsd\tsd_ads7843.c" y="60" path="C:\src\Denon\Denon-ARM\at91lib\drivers\tsd\tsd_ads7843.c" left="0" selected="0" name="unnamed" top="40" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="20" debugPath="C:\src\denon\Denon-ARM\avrcmd.h" y="41" path="C:\src\denon\Denon-ARM\avrcmd.h" left="0" selected="0" name="unnamed" top="33" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\src\denon\Denon-ARM\avrcmd.cpp" y="246" path="C:\src\denon\Denon-ARM\avrcmd.cpp" left="0" selected="0" name="unnamed" top="243" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="11" debugPath="C:\src\denon\Denon-ARM\serialport.cpp" y="74" path="C:\src\denon\Denon-ARM\serialport.cpp" left="0" selected="0" name="unnamed" top="55" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\src\denon\Denon-ARM\serialport.h" y="63" path="C:\src\denon\Denon-ARM\serialport.h" left="0" selected="0" name="unnamed" top="48" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\dev\ARM\CrossWorks for ARM 2.0\include\stlport\stl\_string_base.h" y="40" path="C:\dev\ARM\CrossWorks for ARM 2.0\include\stlport\stl\_string_base.h" left="0" selected="0" name="unnamed" top="39" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\dev\ARM\CrossWorks for ARM 2.0\include\stlport\stl\_string.h" y="504" path="C:\dev\ARM\CrossWorks for ARM 2.0\include\stlport\stl\_string.h" left="0" selected="0" name="unnamed" top="486" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="17" debugPath="C:\src\denon\Denon-ARM\stdafx.h" y="11" path="C:\src\denon\Denon-ARM\stdafx.h" left="0" selected="0" name="unnamed" top="0" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\dev\ARM\CrossWorks for ARM 2.0\include\stlport\stl\_deque.h" y="82" path="C:\dev\ARM\CrossWorks for ARM 2.0\include\stlport\stl\_deque.h" left="0" selected="0" name="unnamed" top="71" />
+ </Files>
+ <ARMCrossStudioWindow activeProject="Denon-ARM" autoConnectTarget="Olimex ARM-USB-TINY" debugSearchFileMap="" fileDialogInitialDirectory="C:\src\Denon\Denon-ARM\at91lib\peripherals\pit" fileDialogDefaultFilter="*.c" autoConnectCapabilities="388479" debugSearchPath="" buildConfiguration="ARM Flash Debug" />
+</session>
