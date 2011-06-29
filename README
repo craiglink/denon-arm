@@ -1,0 +1,6 @@
+embedded ARM application to control a Denon AVR 2908-CI from a
+Denon AVR 3311-CI via their RS232 interfaces.
+
+The 2908-CI behaves as an external amp and provide provides stereo
+output for Zones 2 and 3 while the 3311-CI provides 7.1 output for a home
+theater.
