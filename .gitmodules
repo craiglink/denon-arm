@@ -1,0 +1,3 @@
+[submodule "at91lib"]
+	path = at91lib
+	url = git@github.com:craiglink/at91lib.git
